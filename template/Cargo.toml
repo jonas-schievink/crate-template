@@ -1,4 +1,6 @@
 [package]
+name = "{{CRATE}}"
+version = "0.1.0"
 authors = ["{{AUTHOR}} <{{EMAIL}}>"]
 # TODO: Write description
 #description = ""
@@ -10,8 +12,6 @@ repository = "https://github.com/{{GH-REPO-SLUG}}.git"
 #categories = []
 readme = "README.md"
 license = "CC0-1.0"
-name = "{{CRATE}}"
-version = "0.1.0"
 
 [dependencies]
 
