@@ -2,4 +2,4 @@
 
 ## Unreleased
 
-No changes.
+Initial release.
