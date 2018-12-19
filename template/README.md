@@ -15,7 +15,7 @@ Start by adding an entry to your `Cargo.toml`:
 
 ```toml
 [dependencies]
-{{CRATE}} = "0.1.0"
+{{CRATE}} = "0.0.0"
 ```
 
 Then import the crate into your Rust code:
