@@ -3,14 +3,16 @@
 This is my personalized template for Rust library crates.
 
 It uses [porteurbars](https://github.com/softprops/porteurbars), so a `cargo
-install porteurbars` is needed. Then run this to instantiate the template:
+install --git https://github.com/softprops/porteurbars` is needed (the current
+version on crates.io is incompatible with this template). Then run this to
+instantiate the template:
 
 ```
 porteurbars jonas-schievink/crate-template my-crate
 ```
 
-It will ask for the crate name as well as the "repo slug", which is the GitHub
-username and repo name of a GitHub URL (eg. `jonas-schievink/xml-rpc-rs`).
+It will then ask for the crate name and also allows changing a few default
+values.
 
 There are still a few TODOs in `README.md`, `Cargo.toml` and `lib.rs` that need
 to be filled out before releasing the crate.

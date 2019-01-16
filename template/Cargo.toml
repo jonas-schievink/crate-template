@@ -5,7 +5,7 @@ authors = ["{{AUTHOR}} <{{EMAIL}}>"]
 # TODO: Write description
 #description = ""
 documentation = "https://docs.rs/{{CRATE}}/"
-repository = "https://github.com/{{GH-REPO-SLUG}}.git"
+repository = "https://github.com/{{GH-USER}}/{{CRATE}}.git"
 # TODO: Add up to 5 keywords
 #keywords = []
 # TODO: Add categories
