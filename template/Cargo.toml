@@ -17,7 +17,7 @@ license = "CC0-1.0"
 [dependencies]
 
 [dev-dependencies]
-version-sync = "0.5"
+version-sync = "0.7"
 
 
 # cargo-release configuration
