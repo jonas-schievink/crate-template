@@ -2,6 +2,7 @@
 name = "{{CRATE}}"
 version = "0.0.0"
 authors = ["{{AUTHOR}} <{{EMAIL}}>"]
+edition = "2018"
 # TODO: Write description
 #description = ""
 documentation = "https://docs.rs/{{CRATE}}/"
