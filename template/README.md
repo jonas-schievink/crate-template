@@ -2,7 +2,7 @@
 
 [![crates.io](https://img.shields.io/crates/v/{{CRATE}}.svg)](https://crates.io/crates/{{CRATE}})
 [![docs.rs](https://docs.rs/{{CRATE}}/badge.svg)](https://docs.rs/{{CRATE}}/)
-[![Build Status](https://travis-ci.org/{{GH-USER}}/{{CRATE}}.svg?branch=master)](https://travis-ci.org/{{GH-REPO-SLUG}})
+[![Build Status](https://travis-ci.org/{{GH-USER}}/{{CRATE}}.svg?branch=master)](https://travis-ci.org/{{GH-USER}}/{{CRATE}})
 
 TODO: Briefly describe the crate here (eg. "This crate provides ...").
 
