@@ -12,7 +12,7 @@ repository = "https://github.com/{{GH-USER}}/{{CRATE}}.git"
 # TODO: Add categories
 #categories = []
 readme = "README.md"
-license = "CC0-1.0"
+license = "0BSD"
 
 [dependencies]
 
