@@ -11,15 +11,12 @@ releases.
 
 ## Usage
 
-Start by adding an entry to your `Cargo.toml`:
+Add an entry to your `Cargo.toml`:
 
 ```toml
 [dependencies]
 {{CRATE}} = "0.0.0"
 ```
 
-Then import the crate into your Rust code:
-
-```rust
-extern crate {{CRATE}};
-```
+Check the [API Documentation](https://docs.rs/{{CRATE}}/) for how to use the
+crate's functionality.
