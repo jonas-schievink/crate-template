@@ -22,7 +22,7 @@ to be filled out before releasing the crate.
 The crates created from this template will start out with the following
 features:
 
-* CC-0 license
+* 0BSD license
 * Release automation for maximum laziness with
   [`cargo-release`](https://github.com/sunng87/cargo-release)
   * Changelog will be bumped to the next version
