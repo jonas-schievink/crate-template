@@ -20,3 +20,11 @@ Add an entry to your `Cargo.toml`:
 
 Check the [API Documentation](https://docs.rs/{{CRATE}}/) for how to use the
 crate's functionality.
+
+## Rust version support
+
+This crate supports the 3 latest stable Rust releases. Bumping the minimum
+supported Rust version (MSRV) is not considered a breaking change as long as
+these 3 versions are still supported.
+
+The MSRV is also explicitly tested against in [.travis.yml](.travis.yml).
