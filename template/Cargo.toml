@@ -20,9 +20,6 @@ maintenance = { status = "actively-developed" }
 
 [dependencies]
 
-[dev-dependencies]
-version-sync = "0.8"
-
 
 # cargo-release configuration
 [package.metadata.release]
