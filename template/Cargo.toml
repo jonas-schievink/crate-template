@@ -37,7 +37,7 @@ replace = """
 
 No changes.
 
-## [\{{version}} - \{{date}}](https://github.com/{{GH-USER}}/{{CRATE}}/releases/tag/\{{version}})
+## [\{{version}} - \{{date}}](https://github.com/{{GH-USER}}/{{CRATE}}/releases/tag/v\{{version}})
 """
 
 # Bump the version inside the example manifest in `README.md`
