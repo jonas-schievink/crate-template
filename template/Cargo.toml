@@ -15,7 +15,6 @@ readme = "README.md"
 license = "0BSD"
 
 [badges]
-travis-ci = { repository = "{{GH-USER}}/{{CRATE}}" }
 maintenance = { status = "actively-developed" }
 
 [dependencies]
