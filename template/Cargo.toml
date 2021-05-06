@@ -14,9 +14,6 @@ repository = "https://github.com/{{GH-USER}}/{{CRATE}}.git"
 readme = "README.md"
 license = "0BSD"
 
-[badges]
-maintenance = { status = "actively-developed" }
-
 [dependencies]
 
 
